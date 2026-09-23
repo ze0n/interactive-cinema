@@ -1,8 +1,10 @@
 # Interactive Cinema
 
-An artistic experiment in new media: one Hamlet rehearsal, filmed three times from three points of view. The same scene plays out again, but the atmosphere changes with whoever you are watching through.
+An artistic experiment in new media: one Romeo and Juliet rehearsal, filmed three times from three points of view. The same scene plays out again, but the atmosphere changes with whoever you are watching through.
 
 **[Watch online](https://ze0n.github.io/interactive-cinema/)**
+
+![Screenshot](screen1.png)
 
 ## The piece
 
@@ -19,6 +21,8 @@ The aim is a small interactive tool: stay inside one story, and move between tho
 Three videos stay aligned in time. Numbered buttons on the right switch the view; playback continues from the same moment in the rehearsal.
 
 Over the image, each viewpoint is drawn as a path. The paths cross. Switching views is moving from one line to another at the point where they meet.
+
+![Path control](control.png)
 
 The landing page offers two presentations of the same piece:
 
